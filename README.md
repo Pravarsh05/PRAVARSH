@@ -62,29 +62,13 @@
 
 # 🔥 Featured Projects
 
-## 📌 DSA & Algorithms
-- String Searching Algorithms
-- Stack & Queue Problems
-- Graph Algorithms
-- Dynamic Programming
 
-## 📌 Web Projects
-- Online Periodic Table
-- Smart Parking System
-- Printer Queue Simulation
-
-## 📌 Statistics & Decision Theory
-- Hypothesis Testing
-- Regression Analysis
-- Behavioral Economics Report
 
 ---
 
 # 📈 Coding Profiles
 
 - 💻 GitHub: https://github.com/Pravarsh05
-
-(Add LeetCode / Codeforces links here if you have them)
 
 ---
 
@@ -98,11 +82,7 @@
 
 ---
 
-# 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Pravarsh05&color=blueviolet)
-
----
 
 <p align="center">
   ⭐️ From <a href="https://github.com/Pravarsh05">Pravarsh05</a>
