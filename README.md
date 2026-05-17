@@ -60,12 +60,6 @@
 
 ---
 
-# 🔥 Featured Projects
-
-
-
----
-
 # 📈 Coding Profiles
 
 - 💻 GitHub: https://github.com/Pravarsh05
