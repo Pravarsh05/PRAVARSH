@@ -9,11 +9,11 @@
 
 # 🚀 About Me
 
-- 🎓 Computer Science Student
-- 🌱 Currently learning **DSA, Full Stack Development & System Design**
-- 💻 Interested in **Web Development, AI, and Problem Solving**
-- ⚡ Love building projects and exploring new technologies
-- 📚 Consistently improving coding skills
+-  Computer Science Student
+-  Currently learning **DSA, Full Stack Development & System Design**
+-  Interested in **Web Development, AI, and Problem Solving**
+-  Love building projects and exploring new technologies
+-  Consistently improving coding skills
 
 ---
 
